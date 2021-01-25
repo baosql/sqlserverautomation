@@ -216,4 +216,4 @@ BROWSERSVCSTARTUPTYPE="Disabled"
 FTSVCACCOUNT="NT Service\MSSQLFDLauncher"
 
 ;SQL Password
-SAPWD="1234@Dahun"
+SAPWD="1234@Password"
